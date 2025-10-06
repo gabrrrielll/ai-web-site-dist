@@ -1,7 +1,5 @@
 {
     "plans-config": {
-        "isEditable": true,
-        "show_import_export_config": false,
         "useLocal_site-config": false,
         "show_save_button": true,
         "services": {
